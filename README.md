@@ -5,14 +5,14 @@ Link da base de dados (baixar .csv): https://dados.pbh.gov.br/dataset/pessoas-no
 Nesta pasta há 3 arquivos: a base de dados, o arquivo do Power BI e um arquivo .pdf com informações de referência sobre os dados da tabela. 
 Esse último arquivo também é original da prefeitura podendo ser obtido no primeiro link, no arquivo "Dicionário de Dados de PESSOAS NO CADASTRO ÚNICO".
 
-OBJETIVO
+OBJETIVO:
   Analisar a quantidade e o perfil das pessoas no Cadastro Único em Belo Horizonte até fevereiro de 2026.
 
-MÉTODO/MODELAGEM
+MÉTODO/MODELAGEM:
   Modelo Estrela: A tabela original contendo todos os dados foi segmetada em tabelas menores, tornando a tabela orinal na tabela fato e as outras representando as dimensões.
 
-AUTOR E DATA DE CRIAÇÃO
+AUTOR E DATA DE CRIAÇÃO:
   John Werneck em abril/2026
 
-CONSIDERAÇÃO FINAL
+CONSIDERAÇÃO FINAL:
   Esse é um projeto pessoal para desenvolver minhas habilidades de análise de dados em Power BI.
