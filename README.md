@@ -9,7 +9,7 @@ OBJETIVO:
   Analisar a quantidade e o perfil das pessoas no Cadastro Único em Belo Horizonte até fevereiro de 2026.
 
 MÉTODO/MODELAGEM:
-  Modelo Estrela: A tabela original contendo todos os dados foi segmetada em tabelas menores, tornando a tabela orinal na tabela fato e as outras representando as dimensões.
+  Modelo Estrela - A tabela original contendo todos os dados foi segmetada em tabelas menores, tornando a tabela orinal na tabela fato e as outras representando as dimensões.
 
 AUTOR E DATA DE CRIAÇÃO:
   John Werneck em abril/2026
