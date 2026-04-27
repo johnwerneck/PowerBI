@@ -9,7 +9,9 @@ MÉTODO/MODELAGEM: Modelo Estrela - A tabela original contendo todos os dados fo
 AUTOR E DATA DE CRIAÇÃO: John Werneck em abril/2026
 
 VERSÕES: 
-- A versão 3 (PBH_PessoasNoCadUni_2026-04-23_v3) está configurado para obter os dados localmente, logo, em caso de uso, é necessário ter esse arquivo mencionado jutno do arquivo .csv, além de modificar o diretório no arquivo do Power BI.
-- A versão 4 (PBH_PessoasNoCadUni_2026-04-24_v4) está configurado para se obter os dados diretamente do arquivo .csv hospedado nesse projeto.
+- A versão 4 (PBH_PessoasNoCadUni_2026-04-24_v4) está configurado para se obter os dados diretamente do arquivo .csv hospedado nesse projeto (ONLINE)
+- A versão 3 (PBH_PessoasNoCadUni_2026-04-23_v3) está configurado para obter os dados localmente (OFFLINE), logo, em caso de uso, é necessário ter esse arquivo mencionado jutno do arquivo .csv, além de modificar o diretório no arquivo do Power BI.
+
+IMAGENS: As imagens são de cada uma das páginas do relatório. 
 
 CONSIDERAÇÃO FINAL: Esse é um projeto pessoal para desenvolver minhas habilidades de análise de dados em Power BI.
